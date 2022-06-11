@@ -36,3 +36,5 @@ public class solution {
     }
 
     return currA;
+
+    // bottom comment testing
